@@ -1,17 +1,14 @@
-# iView-project
+# dtmv-web
 
-This project is build for Vue.js 2 + vue-router + webpack2 + iView 3, just install and run.
+数据迁移工具前端项目
 
 ## Install
 ```bush
-// install dependencies
 npm install
 ```
 ## Run
 ### Development
 ```bush
-// For the first time, run init to create index.html
-npm run init
 npm run dev
 ```
 ### Production(Build)
